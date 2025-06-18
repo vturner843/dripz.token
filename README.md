@@ -4,7 +4,7 @@
 
 - 🪙 **No tax, no reflections** — just pure drip energy
 - 📈 **Live on Uniswap** (v3 and soon v4)
-- 🎁 Supports community airdrops, NFTs, and staking
+- 🎁 Supports community airdrops and NFTs
 - 👑 Built for early holders who believe in energy over hype
 
 ## 🌐 Project Links
